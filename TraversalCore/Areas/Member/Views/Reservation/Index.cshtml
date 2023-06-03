@@ -1,0 +1,62 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Reservation>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+@{
+    var selectList = ViewBag.val1 as List<SelectListItem>;
+    var selectedValue = ViewBag.i;
+}
+
+@Html.DropDownListFor(m => selectedValue, selectList, new { @class = "form-control", @id = "myDropdown" })
+<br />
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header pb-0">
+                <h6>@ViewBag.RezervasyonBaslik</h6>
+            </div>
+            <div class="card-body px-0 pt-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center justify-content-center mb-0">
+                        <thead>
+                            <tr>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Lokasyon</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Kişi Sayısı</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Rezervasyon Tarihi</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Durum</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td><h6 class="mb-0 text-sm px-2">@item.Destination.City</h6></td>
+                                    <td><p class="text-xs font-weight-bold mb-0">@item.PersonCount</p></td>
+                                    <td><p class="text-xs font-weight-bold mb-0">@(((DateTime)item.ReservationDate).ToString("dd-MMM-yyyy"))</p></td>
+                                    <td><p class="text-xs font-weight-bold mb-0">@item.Status</p></td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#myDropdown').on('change', function () {
+            var selectedValue = $(this).val();
+            window.location.href = '@Url.Action("Index", new { id = "__value__" })'.replace('__value__', selectedValue);
+        });
+    });
+</script>

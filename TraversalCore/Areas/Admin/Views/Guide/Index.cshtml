@@ -1,0 +1,42 @@
+﻿@using EntityLayer.Concrete
+@model List<Guide>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h4>Rehber Listesi</h4>
+
+<a href="/Admin/Guide/AddGuide/" class="btn btn-outline-primary">Rehber Ekle</a>
+<br /><br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>Fotoğraf</th>
+        <th>Ad Soyad</th>
+        <th>Açıklama</th>
+        <th>Durum</th>
+        <th>Düzenle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td><img src="~/soft-ui-dashboard/assets/img/@item.Image" height="50" width="50" class="rounded-circle" /></td>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            @{
+                if(item.Status == true)
+                {
+                    <td><a href="/Admin/Guide/ChangeStatus/@item.GuideID" class="btn btn-outline-warning">Pasif Yap</a></td>
+                }
+                else
+                {
+                    <td><a href="/Admin/Guide/ChangeStatus/@item.GuideID" class="btn btn-outline-info">Aktif Yap</a></td>
+                }
+            }
+            <td><a href="/Admin/Guide/EditGuide/@item.GuideID" class="btn btn-outline-primary">Düzenle</a></td>
+            <td><a href="/Admin/Guide/DeleteGuide/@item.GuideID" class="btn btn-outline-danger">Sil</a></td>
+        </tr>
+    }
+</table>

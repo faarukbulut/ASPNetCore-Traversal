@@ -1,0 +1,27 @@
+﻿@model List<GetAllGuideQueryResult>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h4>CQRS MediatR Rehber Listesi</h4>
+<a href="/Admin/GuideMediatR/AddGuide" class="btn btn-outline-primary">Yeni Ekle</a>
+<br /><br />
+
+<table class="table table-bordered">
+    <tr>
+        <th>Rehber Adı</th>
+        <th>Açıklama</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td><a href="/Admin/GuideMediatR/DeleteGuide/@item.GuideID" class="btn btn-outline-danger">Sil</a></td>
+            <td><a href="/Admin/GuideMediatR/GetGuide/@item.GuideID" class="btn btn-outline-success">Düzenle</a></td>
+        </tr>
+    }
+</table>

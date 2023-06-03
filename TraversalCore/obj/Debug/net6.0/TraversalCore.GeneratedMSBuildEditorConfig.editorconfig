@@ -1,0 +1,329 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TraversalCore
+build_property.RootNamespace = TraversalCore
+build_property.ProjectDir = C:\Users\faaru\Masaüstü\dotnet\ASPNetCore-Traversal\TraversalCore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\faaru\Masaüstü\dotnet\ASPNetCore-Traversal\TraversalCore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/ApiExchange/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpRXhjaGFuZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/ApiHotelSearch/GetCityDestID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpSG90ZWxTZWFyY2hcR2V0Q2l0eURlc3RJRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/ApiHotelSearch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpSG90ZWxTZWFyY2hcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/ApiMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBpTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/DestinationCQRS/AddDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25DUVJTXEFkZERlc3RpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/DestinationCQRS/GetDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25DUVJTXEdldERlc3RpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/DestinationCQRS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25DUVJTXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Destination/AddDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cQWRkRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Destination/UpdateDestination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cVXBkYXRlRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/GuideMediatR/AddGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVNZWRpYXRSXEFkZEd1aWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/GuideMediatR/GetGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVNZWRpYXRSXEdldEd1aWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/GuideMediatR/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVNZWRpYXRSXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Guide/AddGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVcQWRkR3VpZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Guide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/Mail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/User/ReservationUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxSZXNlcnZhdGlvblVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/VisitorApi/AddVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxBZGRWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/VisitorApi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/VisitorApi/UpdateVisitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmlzaXRvckFwaVxVcGRhdGVWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXENvbW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXERlc3RpbmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFByb2ZpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/Reservation/NewReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlc2VydmF0aW9uXE5ld1Jlc2VydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Areas/Member/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Comment/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxBZGRDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Destination/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Excel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhjZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Login/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Login/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/PdfReport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_AdminGuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluR3VpZGVMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_Card1Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcmQxU3RhdGlzdGljXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_Card2Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcmQyU3RhdGlzdGljXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_CommentList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_DashboardBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZEJhbm5lclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_DestinationStatistic2/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uU3RhdGlzdGljMlxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_DestinationStatistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uU3RhdGlzdGljXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_Feature/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_GuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0d1aWRlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_PlatformSetting/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BsYXRmb3JtU2V0dGluZ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_PopulerDestinations/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcHVsZXJEZXN0aW5hdGlvbnNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_ProfileInformation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Byb2ZpbGVJbmZvcm1hdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_SliderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NsaWRlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_SubAbout/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N1YkFib3V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_Testimonial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Components/_TotalRevenue/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RvdGFsUmV2ZW51ZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/LayoutPartial/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcX0Zvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/LayoutPartial/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcX0hlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/LayoutPartial/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcX05hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/LayoutPartial/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcX1NjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/MemberLayoutPartial/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbWJlckxheW91dFBhcnRpYWxcX0hlYWRlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/MemberLayoutPartial/_Navbar2Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbWJlckxheW91dFBhcnRpYWxcX05hdmJhcjJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/MemberLayoutPartial/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbWJlckxheW91dFBhcnRpYWxcX05hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/MemberLayoutPartial/_RightbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbWJlckxheW91dFBhcnRpYWxcX1JpZ2h0YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/MemberLayoutPartial/_ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbWJlckxheW91dFBhcnRpYWxcX1NjcmlwdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faaru/Masaüstü/dotnet/ASPNetCore-Traversal/TraversalCore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mv23i8to4f
